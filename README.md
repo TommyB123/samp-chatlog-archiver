@@ -9,4 +9,5 @@ To use this tool, head over to the [releases](https://github.com/TommyB123/samp-
 A small caveat of this program is the fact that it must be manually started every time your computer is turned on. This can be circumvented by copying the program (or creating an application shortcut) to your Windows startup folder.
 
 For Windows 7 users, your startup folder may be found in `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup`
+
 For Windows 8 and above, look in `C:\Users\(Your Windows username)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
